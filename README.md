@@ -22,7 +22,7 @@ This project uses OpenAI's Assistant API to automatically generate structured st
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/onlytenders/openai-api-study-notes-generator
 cd ai_hw2
 ```
 
